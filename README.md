@@ -77,9 +77,9 @@ public class Sayrox
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/4d/77/0d/4d770dbe2cdb3f6f0df4b4f6d9b8f3a5.gif" width="300"/>
+<img src="[https://i.pinimg.com/originals/4d/77/0d/4d770dbe2cdb3f6f0df4b4f6d9b8f3a5.gif](https://tenor.com/tr/view/sealyx-alya-sometimes-hides-her-feelings-in-russian-roshidere-gif-3841476152344250366)" width="300"/>
 
-<img src="https://i.pinimg.com/originals/61/7b/73/617b73a63c9d2cfce4d6d1d7f7db2341.gif" width="300"/>
+<img src="[https://i.pinimg.com/originals/61/7b/73/617b73a63c9d2cfce4d6d1d7f7db2341.gif](https://tenor.com/tr/view/blush-rias-gremory-highschool-dxd-anime-cute-gif-17791241)" width="300"/>
 
 </div>
 
