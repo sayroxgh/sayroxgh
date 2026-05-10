@@ -4,9 +4,9 @@
 
 # 🔥 Sayrox
 
-### CS2 Plugin Developer • Unity Developer • Anime Enjoyer
+### CS2 Plugin Developer • Blender Artist • Anime Enjoyer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=CounterStrikeSharp+Developer;CS2+Jailbreak+Systems;Unity+Game+Developer;Alya+%26+Kaoruko+Fan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=CounterStrikeSharp+Developer;CS2+Jailbreak+Systems;Blender+Artist;Alya+%26+Kaoruko+Fan" />
 
 </div>
 
@@ -14,25 +14,27 @@
 
 # 💫 About Me
 
-```cs
-class Sayrox
+```csharp
+public class Sayrox
 {
-    string[] Skills =
+    public string[] Skills =
     {
         "CounterStrikeSharp",
         "CS2 Plugin Development",
-        "Unity 3D",
+        "Blender",
         ".NET 8",
         "Game Systems",
         "Server Management"
     };
 
-    string[] CurrentlyWorkingOn =
+    public string[] CurrentlyWorkingOn =
     {
         "CS2 Jailbreak Systems",
         "Custom Server Plugins",
-        "Unity Projects"
+        "Blender Projects"
     };
+
+    public string Motto = "Code • Anime • CS2";
 }
 ```
 
@@ -42,7 +44,7 @@ class Sayrox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,unity,python,git,github,vscode,visualstudio,mysql" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,blender,python,git,github,vscode,visualstudio,mysql" />
 
 </div>
 
@@ -54,17 +56,7 @@ class Sayrox
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sayroxgh&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sayroxgh&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-# 🩸 Most Used Languages
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayroxgh&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=sayroxgh&theme=radical&hide_border=true" />
 
 </div>
 
@@ -75,7 +67,7 @@ class Sayrox
 - CS2 Plugin Development
 - Jailbreak Server Systems
 - Anime Themed UI Designs
-- Unity Experiments
+- Blender Modeling
 - Game Mechanics
 - Custom Server Infrastructure
 
@@ -85,9 +77,9 @@ class Sayrox
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAC/alya-kujou.gif" width="300"/>
+<img src="https://i.pinimg.com/originals/4d/77/0d/4d770dbe2cdb3f6f0df4b4f6d9b8f3a5.gif" width="300"/>
 
-<img src="https://media1.tenor.com/m/4B0JpZ4H8sAAAAAC/anime-girl.gif" width="300"/>
+<img src="https://i.pinimg.com/originals/61/7b/73/617b73a63c9d2cfce4d6d1d7f7db2341.gif" width="300"/>
 
 </div>
 
@@ -106,8 +98,6 @@ class Sayrox
 ---
 
 <div align="center">
-
-## 🔥 "Code • Anime • CS2"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 
