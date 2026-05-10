@@ -52,9 +52,9 @@ class Sayrox
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayroxgh&show_icons=true&theme=shadow_red&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayroxgh&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sayroxgh&theme=shadow_red&hide_border=true&background=00000000" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sayroxgh&theme=radical&hide_border=true" />
 
 </div>
 
@@ -64,7 +64,7 @@ class Sayrox
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayroxgh&layout=compact&theme=shadow_red&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayroxgh&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -85,9 +85,9 @@ class Sayrox
 
 <div align="center">
 
-<img src="https://media.tenor.com/8JWtV8O1FoAAAAAC/alya-anime.gif" width="300"/>
+<img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAC/alya-kujou.gif" width="300"/>
 
-<img src="https://i.imgur.com/q7ZVJ4B.gif" width="300"/>
+<img src="https://media1.tenor.com/m/4B0JpZ4H8sAAAAAC/anime-girl.gif" width="300"/>
 
 </div>
 
