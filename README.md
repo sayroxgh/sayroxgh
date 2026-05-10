@@ -97,7 +97,7 @@ class Sayrox
 
 <div align="center">
 
-[![Steam](https://img.shields.io/badge/Steam-FF0000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sayroxq/))
+[![Steam](https://img.shields.io/badge/Steam-FF0000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sayroxq/)
 
 [![Discord](https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1154826854243504159)
 
