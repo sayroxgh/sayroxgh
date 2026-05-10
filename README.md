@@ -1,16 +1,114 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sayroxgh/sayroxgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/7b/67/51/7b6751b0e6f6c3c2e3c6f71f0d5e7f5d.gif" width="100%" />
 
-Here are some ideas to get you started:
+# 🔥 Sayrox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CS2 Plugin Developer • Unity Developer • Anime Enjoyer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=CounterStrikeSharp+Developer;CS2+Jailbreak+Systems;Unity+Game+Developer;Alya+%26+Kaoruko+Fan" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+```cs
+class Sayrox
+{
+    string[] Skills =
+    {
+        "CounterStrikeSharp",
+        "CS2 Plugin Development",
+        "Unity 3D",
+        ".NET 8",
+        "Game Systems",
+        "Server Management"
+    };
+
+    string[] CurrentlyWorkingOn =
+    {
+        "CS2 Jailbreak Systems",
+        "Custom Server Plugins",
+        "Unity Projects"
+    };
+}
+```
+
+---
+
+# ⚔️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,unity,python,git,github,vscode,visualstudio,mysql" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayroxgh&show_icons=true&theme=shadow_red&hide_border=true&bg_color=00000000" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sayroxgh&theme=shadow_red&hide_border=true&background=00000000" />
+
+</div>
+
+---
+
+# 🩸 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayroxgh&layout=compact&theme=shadow_red&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+# 🎮 Current Interests
+
+- CS2 Plugin Development
+- Jailbreak Server Systems
+- Anime Themed UI Designs
+- Unity Experiments
+- Game Mechanics
+- Custom Server Infrastructure
+
+---
+
+# ❤️ Favorite Characters
+
+<div align="center">
+
+<img src="https://media.tenor.com/8JWtV8O1FoAAAAAC/alya-anime.gif" width="300"/>
+
+<img src="https://i.imgur.com/q7ZVJ4B.gif" width="300"/>
+
+</div>
+
+---
+
+# 🌐 Socials
+
+<div align="center">
+
+[![Steam](https://img.shields.io/badge/Steam-FF0000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sayroxq/))
+
+[![Discord](https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1154826854243504159)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 "Code • Anime • CS2"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+
+</div>
