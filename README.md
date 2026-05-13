@@ -6,7 +6,7 @@
 
 ### CS2 Plugin Developer • Blender Artist • Anime Enjoyer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=CounterStrikeSharp+Developer;CS2+Jailbreak+Systems;Blender+Artist;Alya+%26+Kaoruko+Fan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=CounterStrikeSharp+Plugin+Developer;CS2+Jailbreak+Systems;Blender+Artist;Anime+Themed+Projects" />
 
 </div>
 
@@ -19,8 +19,8 @@ public class Sayrox
 {
     public string[] Skills =
     {
-        "CounterStrikeSharp",
-        "CS2 Plugin Development",
+        "CounterStrikeSharp Plugins",
+        "CS2 Server Development",
         "Blender",
         ".NET 8",
         "Game Systems",
